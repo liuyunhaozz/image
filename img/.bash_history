@@ -1,0 +1,20 @@
+ls
+push a.txt
+ls
+ls
+D:ls
+ls
+ls
+time
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+python
+ipython
+ls
